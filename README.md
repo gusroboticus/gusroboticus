@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gusroboticus
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning Substrate
+- 👀 I’m interested in Blockchain, Substrate and Ink! development
+- 🌱 I’m currently learning Rust and Substrate
 - 💞️ I’m looking to collaborate on all things Blockchain
 - 📫 How to reach me messegee.com
 
