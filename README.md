@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gusroboticus
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning Substrate
-- 💞️ I’m looking to collaborate on all thinks Blockchain
+- 💞️ I’m looking to collaborate on all things Blockchain
 - 📫 How to reach me tom@koabd.com
 
 <!---
