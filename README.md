@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @gusroboticus
+- 🔗 Co-Founder Geode L1 Blockchain - https://geodechain.com
+- 🛠 CTO Sparticle Concepts, LLC
 - 👀 I’m interested in Blockchain, Substrate and Ink! development
 - 💞️ I’m looking to collaborate on all things Blockchain
 - 📫 How to reach me tom@koabd.com
